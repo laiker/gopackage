@@ -1,4 +1,4 @@
-module gopackage/v1.0.0
+module github.com/laiker/gopackage
 
 go 1.21.1
 
